@@ -219,6 +219,10 @@ section.intro img.sol {
     section.intro img.picture {
         right: unset
     }
+
+    section.intro img.sol {
+        z-index: -10000;
+    }
 }
 
 section.intro .container {
