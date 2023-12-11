@@ -479,10 +479,10 @@ section.base .container {
 }
 
 section.base img.picture {
-    max-width: 717px;
+    max-width: 480px;
     width: 100%;
     position: absolute;
-    left: 0
+    left: 6%;
 }
 
 @media screen and (max-width: 500px) {
